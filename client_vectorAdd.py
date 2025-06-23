@@ -26,6 +26,10 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 # OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
+
+"""
+Test script modified from https://github.com/triton-inference-server/server/blob/r24.11/qa/L0_backend_identity/identity_test.py
+"""
 import argparse
 import sys
 from builtins import range
